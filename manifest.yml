@@ -7,4 +7,3 @@ applications:
   command: Kitura-Starter
   buildpack: swift_buildpack
   health-check-type: http
-  health_check_http_endpoint: /health
